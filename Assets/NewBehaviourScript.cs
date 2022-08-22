@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class NewBehaviourScript : MonoBehaviour
 {
-    public string count = "3";
+    public string count = "Editor in Github";
     // Start is called before the first frame update
     void Start()
     {
