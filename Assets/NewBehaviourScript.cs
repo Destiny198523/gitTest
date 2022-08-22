@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class NewBehaviourScript : MonoBehaviour
 {
-    public string count = "这是第三次提交";
+    public string count = "3";
     // Start is called before the first frame update
     void Start()
     {
